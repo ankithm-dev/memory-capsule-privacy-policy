@@ -1,12 +1,14 @@
-# Privacy Policy
+# Memory Capsule
 
-**Last Updated:** June 2026
+### One memory. Every day.
 
-Welcome to Memory Capsule.
+## Privacy Policy
 
-Memory Capsule is designed with privacy as a core principle. This Privacy Policy explains how the app handles information when you use our services.
+Last Updated: June 2026
 
-## Information We Collect
+Memory Capsule is designed with privacy as a core principle.
+
+### Information We Collect
 
 Memory Capsule does not collect, store, transmit, or share personal information with us.
 
@@ -22,13 +24,52 @@ are stored locally on your device.
 
 We do not have access to this information.
 
-## Device Permissions
+### Device Permissions
 
-Memory Capsule may request access to:
-
-### Photos and Media
+#### Photos and Media
 
 Used only to allow you to select photos from your device gallery.
+
+#### Camera
+
+Used only when you choose to capture a photo directly from within the app.
+
+### Data Storage
+
+All memories are stored locally on your device.
+
+Memory Capsule does not upload your memories to external servers or cloud storage.
+
+### Analytics and Tracking
+
+Memory Capsule does not use:
+
+* Analytics services
+* Advertising networks
+* Tracking technologies
+* Behavioral profiling
+
+### Data Sharing
+
+Memory Capsule does not sell, rent, share, or disclose personal information to third parties.
+
+### Children's Privacy
+
+Memory Capsule does not knowingly collect personal information from children.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+### Contact
+
+[memorycapsule.app@gmail.com](mailto:memorycapsule.app@gmail.com)
+
+---
+
+Memory Capsule
+
+One memory. Every day.
 
 ### Camera
 
